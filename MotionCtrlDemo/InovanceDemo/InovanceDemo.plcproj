@@ -18,9 +18,6 @@
     <LibraryReferences>{c12d01fc-0312-496e-9823-20943835ec4d}</LibraryReferences>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="DUTs\DUT.TcDUT">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Include="DUTs\MoveState.TcDUT">
       <SubType>Code</SubType>
     </Compile>
